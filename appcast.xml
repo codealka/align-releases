@@ -4,11 +4,11 @@
         <title>align</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Thu, 16 Apr 2026 12:54:37 +0000</pubDate>
+            <pubDate>Sat, 18 Apr 2026 08:27:29 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://codealka.github.io/align-releases/Align.dmg" length="7634918" type="application/octet-stream"/>
+            <enclosure url="https://codealka.github.io/align-releases/Align.dmg" length="8628639" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
