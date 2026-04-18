@@ -3,14 +3,14 @@
     <channel>
         <title>align</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Sat, 18 Apr 2026 14:31:02 +0000</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.0</title>
+            <pubDate>Sat, 18 Apr 2026 15:07:29 +0000</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://codealka.github.io/align-releases/Align.dmg"
-                       sparkle:edSignature="LQ7uPvjwC3qdB+lGwWTNyAwnOMKfsklU6BNlcWsma+R0piBXnX81LgOlL5PkCYIWdrya49Xn3vZ0zrbMdhuHBw=="
-                       length="8621602"
+                       sparkle:edSignature="zQvENvgHujwpm5GhpGAJdcjLHRqEOJCtZNzeCo6bUBF1gttYUaMd3sdW2b+zjN4XYvByKBRKEC7pb76oiqpUAA=="
+                       length="8620439"
                        type="application/octet-stream"/>
         </item>
     </channel>
